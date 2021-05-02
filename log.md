@@ -4,7 +4,7 @@
 
 **Today's Progress**: Completed ionic project for iOS deployment (very simple app) and started pipeline process (Azure DevOps). 
 
-**Thoughts:** Again, I think I may buy a back. I may toggle more to more of an IaC approach until I have Mac or path iOS path forward.
+**Thoughts:** Again, I think I'll likely buy a Mac SOON. I may toggle to more of an IaC approach until I have a Mac or clear iOS path forward.
 
 **Link to work:** [Never Give Up](https://github.com/jWatsonDev/never-give-up)
 
