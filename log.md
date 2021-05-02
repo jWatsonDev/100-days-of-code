@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: May 1, 2021
+### Day 1: May 1, 2021
 
 **Today's Progress**: Researched Ionic iOS deployment and scaffolded ionic project for iOS deployment. 
 
