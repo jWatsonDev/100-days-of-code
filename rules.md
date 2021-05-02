@@ -14,8 +14,9 @@ May 1, 2021
 
 ## Goals
 1. Improve IaC skills
-2. Obtain IaC-related certification 
+2. Obtain IaC-related certification (likely Azure DevOps)
 3. Release app to Apple App Store
+4. Continue to grow Azure/AWS skills
 
 ## Contents
 * [Rules](rules.md)
