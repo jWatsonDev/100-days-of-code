@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 4: May 4, 2021
+
+**Today's Progress**: Studied some Terraform today and worked on CI/CD release. Have a little bug I need to squash in pipeline.  
+
+**Thoughts:** May the 4th be with you.
+
+**Link to work:** N/A
+
 ### Day 3: May 3, 2021
 
 **Today's Progress**: Completed pipeline Angular/Ionic build process. Need to complete release process. 
