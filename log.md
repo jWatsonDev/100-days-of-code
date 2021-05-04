@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 3: May 3, 2021
+
+**Today's Progress**: Completed pipeline Angular/Ionic build process. Need to complete release process. 
+
+**Thoughts:** Will focus on IaC/App dev until I get my Mac. 
+
+**Link to work:** N/A
+
 ### Day 2: May 2, 2021
 
 **Today's Progress**: Completed ionic project for iOS deployment (very simple app) and started pipeline process (Azure DevOps). 
