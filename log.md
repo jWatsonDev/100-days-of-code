@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 5: May 5, 2021
+
+**Today's Progress**: Finally squashed CI/CD bug in pipeline. Silly mistake on my part. Took too long to find. Part of it! 🤦‍♂️ #HappyCincoDeMayo 
+
+**Thoughts:** Happy Cinco de Mayo
+
+**Link to work:** N/A
+
 ### Day 4: May 4, 2021
 
 **Today's Progress**: Studied some Terraform today and worked on CI/CD release. Have a little bug I need to squash in pipeline.  
