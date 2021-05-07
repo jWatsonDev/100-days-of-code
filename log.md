@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 6: May 6, 2021
+
+**Today's Progress**: Distraction alert. Today, I realized that I'll likely soon be working with Oracle Cloud, so actually studied OCI a bit and plan to get the initial cert. Also, worked with Terraform. 
+
+**Thoughts:** I may celebrate Cinco de Mayo, today.
+
+**Link to work:** N/A
+
 ### Day 5: May 5, 2021
 
 **Today's Progress**: Finally squashed CI/CD bug in pipeline. Silly mistake on my part. Took too long to find. Part of it! 🤦‍♂️ #HappyCincoDeMayo 
