@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 7: May 7, 2021
+
+**Today's Progress**: Studied both OCI and worked with Terraform today. I'll have more tangible results, tomorrow.
+
+**Thoughts:** Punch the clock.
+
 ### Day 6: May 6, 2021
 
 **Today's Progress**: Distraction alert. Today, I realized that I'll likely soon be working with Oracle Cloud, so actually studied OCI a bit and plan to get the initial cert. Also, worked with Terraform. 
