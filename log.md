@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 8: May 8, 2021
+
+**Today's Progress**: Only studied OCI today, but I bought a new Mac.
+
+**Thoughts:** I bought a M1 Macbook Air. So far. Impressed.
+
 ### Day 7: May 7, 2021
 
 **Today's Progress**: Studied both OCI and worked with Terraform today. I'll have more tangible results, tomorrow.
