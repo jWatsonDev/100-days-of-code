@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 9: May 9, 2021
+
+**Today's Progress**: An hour of OCI training, today.
+
+**Thoughts:** Happy Sunday. Loving the Macbook Air!
+
 ### Day 8: May 8, 2021
 
 **Today's Progress**: Only studied OCI today, but I bought a new Mac.
