@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 10: May 10, 2021
+
+**Today's Progress**: A mix of OCI training and Terraform. 
+
+**Thoughts:** Will take 2-3 more days to fin OCI course. 
+
 ### Day 9: May 9, 2021
 
 **Today's Progress**: An hour of OCI training, today.
