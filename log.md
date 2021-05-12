@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 11: May 11, 2021
+
+**Today's Progress**: Same as yesterday. A mix of OCI training and Terraform. 
+
+**Thoughts:** Another doller. Another day.
+
 ### Day 10: May 10, 2021
 
 **Today's Progress**: A mix of OCI training and Terraform. 
