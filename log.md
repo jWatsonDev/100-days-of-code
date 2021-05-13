@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 12: May 12, 2021
+
+**Today's Progress**: Mix of OCI training and Terraform. Also played with AZ functions and compared serverless fw vs az func local dev and iac/pipeline setup.
+
+**Thoughts:** Busy but productive. 
+
 ### Day 11: May 11, 2021
 
 **Today's Progress**: Same as yesterday. A mix of OCI training and Terraform. 
