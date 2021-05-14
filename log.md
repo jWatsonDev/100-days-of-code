@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 14: May 14, 2021
+
+**Today's Progress**: Mixed it up today. Angular/MSAL/AAD with some IaC/Pipeline. I'll push my work to GitHub later on.
+
+**Thoughts:** Still waterpark with kids and wife at Wilderness. 
+
 ### Day 13: May 13, 2021
 
 **Today's Progress**: As per usual--mix of OCI training and Terraform. 
