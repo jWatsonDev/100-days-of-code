@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 13: May 13, 2021
+
+**Today's Progress**: As per usual--mix of OCI training and Terraform. 
+
+**Thoughts:** Vacay at Wilderness. 
+
 ### Day 12: May 12, 2021
 
 **Today's Progress**: Mix of OCI training and Terraform. Also played with AZ functions and compared serverless fw vs az func local dev and iac/pipeline setup.
