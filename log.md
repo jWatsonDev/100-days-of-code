@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 15: May 15, 2021
+
+**Today's Progress**: Finished up Angular/MSAL/AAD, added TF iac for az static site, and studdied func deployment. Code pushed to GitHub.
+
+**Thoughts:** Back from waterpark. Current work: https://github.com/jWatsonDev/angular-msal
+
 ### Day 14: May 14, 2021
 
 **Today's Progress**: Mixed it up today. Angular/MSAL/AAD with some IaC/Pipeline. I'll push my work to GitHub later on.
