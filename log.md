@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 17: May 17, 2021
+
+**Today's Progress**: Worked on MSAL/Angular/AZ Function auth. A bit frustrating. 
+
+**Thoughts:** Hmm...
+
 ### Day 16: May 16, 2021
 
 **Today's Progress**: More Terraform--created AZ functions and deployed. Also, toggled from msal to adal due to msal not supporting function auth.
