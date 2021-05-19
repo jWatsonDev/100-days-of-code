@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 18: May 18, 2021
+
+**Today's Progress**: MSAL/Angular/AZ again. More of the same frustration but progress.
+
+**Thoughts:** Hmm...
+
 ### Day 17: May 17, 2021
 
 **Today's Progress**: Worked on MSAL/Angular/AZ Function auth. A bit frustrating. 
