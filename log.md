@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 19: May 19, 2021
+
+**Today's Progress**: An hour+ of MSAL/Angular/AZ again. 
+
+**Thoughts:** This is frustrating. #partofit
+
 ### Day 18: May 18, 2021
 
 **Today's Progress**: MSAL/Angular/AZ again. More of the same frustration but progress.
