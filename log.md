@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 20: May 20, 2021
+
+**Today's Progress**: MSAL.
+
+**Thoughts:** :|
+
 ### Day 19: May 19, 2021
 
 **Today's Progress**: An hour+ of MSAL/Angular/AZ again. 
