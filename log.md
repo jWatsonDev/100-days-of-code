@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 21: May 21, 2021
+
+**Today's Progress**: MSAL issue resolved. See SO post: https://stackoverflow.com/questions/55226143/azure-function-with-ad-auth-results-in-401-unauthorized-when-using-bearer-tokens
+
+**Thoughts:** Keep working. 
+
 ### Day 20: May 20, 2021
 
 **Today's Progress**: MSAL.
