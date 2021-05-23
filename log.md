@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 22: May 22, 2021
+
+**Today's Progress**: Mainly focused on Serverless today: Azure Functions, NestJS, Azure Table Storage. 
+
+**Thoughts:** I'm learning.
+
 ### Day 21: May 21, 2021
 
 **Today's Progress**: MSAL issue resolved. See SO post: https://stackoverflow.com/questions/55226143/azure-function-with-ad-auth-results-in-401-unauthorized-when-using-bearer-tokens
