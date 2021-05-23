@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 23: May 23, 2021
+
+**Today's Progress**: NestJS and AZ Table Storage. I also wrote this guy: https://jaywatson-58063.medium.com/angular-azure-auth-ci-cd-iac-and-serverless-part-1-64c0f0d22e4d
+
+**Thoughts:** Also, wrote this guy!
+
 ### Day 22: May 22, 2021
 
 **Today's Progress**: Mainly focused on Serverless today: Azure Functions, NestJS, Azure Table Storage. 
