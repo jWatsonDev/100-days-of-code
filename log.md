@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 24: May 24, 2021
+
+**Today's Progress**: Added TF IaC and Pipeline to Ng-MSAL project.
+
+**Thoughts:** **crickets
+
 ### Day 23: May 23, 2021
 
 **Today's Progress**: NestJS and AZ Table Storage. I also wrote this guy: https://jaywatson-58063.medium.com/angular-azure-auth-ci-cd-iac-and-serverless-part-1-64c0f0d22e4d
