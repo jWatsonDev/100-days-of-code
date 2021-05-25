@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 25: May 25, 2021
+
+**Today's Progress**: NestJS with AZ Functions and Azure Table Storage. I like the Combo.
+
+**Thoughts:** Tired today. 
+
 ### Day 24: May 24, 2021
 
 **Today's Progress**: Added TF IaC and Pipeline to Ng-MSAL project.
