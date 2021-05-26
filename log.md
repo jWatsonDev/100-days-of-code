@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 26: May 26, 2021
+
+**Today's Progress**: Troubleshooting NestJS. Repo example works perfect, but seems to be issue with NPM package/other dependencies. 
+
+**Thoughts:** 4:30 AM
+
 ### Day 25: May 25, 2021
 
 **Today's Progress**: NestJS with AZ Functions and Azure Table Storage. I like the Combo.
