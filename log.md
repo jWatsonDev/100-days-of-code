@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 27: May 27, 2021
+
+**Today's Progress**: More Azure Functions and Nest JS. 
+
+**Thoughts:** Long day at work and had freeCodeCamp tonight. 4-day weekend, though!! 
+
 ### Day 26: May 26, 2021
 
 **Today's Progress**: Troubleshooting NestJS. Repo example works perfect, but seems to be issue with NPM package/other dependencies. 
