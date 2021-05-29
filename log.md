@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 29: May 29, 2021
+
+**Today's Progress**: Integrating AZ Functions with Angular app.  
+
+**Thoughts:** Check.
+
 ### Day 28: May 28, 2021
 
 **Today's Progress**: AZ Functions and Nest JS combined with Angular. 
