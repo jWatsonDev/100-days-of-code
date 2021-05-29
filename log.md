@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 28: May 28, 2021
+
+**Today's Progress**: AZ Functions and Nest JS combined with Angular. 
+
+**Thoughts:** Enjoyed my day off. 
+
 ### Day 27: May 27, 2021
 
 **Today's Progress**: More Azure Functions and Nest JS. 
