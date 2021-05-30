@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 30: May 30, 2021
+
+**Today's Progress**: Angular/Serverless/AAD auth fully working. Clean up/fine-tuning time.
+
+**Thoughts:** Check.
+
 ### Day 29: May 29, 2021
 
 **Today's Progress**: Integrating AZ Functions with Angular app.  
