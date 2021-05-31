@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 31: May 31, 2021
+
+**Today's Progress**: Angular/Serverless/AAD ToDo app completely functional. 
+
+**Thoughts:** Coded outside today. 
+
 ### Day 30: May 30, 2021
 
 **Today's Progress**: Angular/Serverless/AAD auth fully working. Clean up/fine-tuning time.
