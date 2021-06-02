@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 32: May 32, 2021
+
+**Today's Progress**: Mostly researching Ionic/iOS App Deployment. 
+
+**Thoughts:** Here.
+
 ### Day 31: May 31, 2021
 
 **Today's Progress**: Angular/Serverless/AAD ToDo app completely functional. 
