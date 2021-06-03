@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 32: May 32, 2021
+### Day 33: June 2, 2021
+
+**Today's Progress**: Continued research/work with Ionic/iOS App Deployment. 
+
+**Thoughts:** Putting in the time.
+
+### Day 32: June 1, 2021
 
 **Today's Progress**: Mostly researching Ionic/iOS App Deployment. 
 
