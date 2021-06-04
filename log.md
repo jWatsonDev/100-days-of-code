@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 35: June 4, 2021
+
+**Today's Progress**: Submitted app to App Store. 
+
+**Thoughts:** Fingers crossed.
+
 ### Day 34: June 3, 2021
 
 **Today's Progress**: Paid for Apple dev acct and walked partway through the process, even testing app on phone. 
