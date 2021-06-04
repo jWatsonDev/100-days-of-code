@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 34: June 3, 2021
+
+**Today's Progress**: Paid for Apple dev acct and walked partway through the process, even testing app on phone. 
+
+**Thoughts:** :)
+
 ### Day 33: June 2, 2021
 
 **Today's Progress**: Continued research/work with Ionic/iOS App Deployment. 
