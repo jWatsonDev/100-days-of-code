@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 36: June 5, 2021
+
+**Today's Progress**: Played around with geolocation/running app today.
+
+**Thoughts:** Golfing...
+
 ### Day 35: June 4, 2021
 
 **Today's Progress**: Submitted app to App Store. 
