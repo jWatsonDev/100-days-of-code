@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 37: June 6, 2021
+
+**Today's Progress**: Not the most purposeful day. General Ionic/Google Maps API reasearch and playground time. 
+
+**Thoughts:** Sunday. Church. Running. Bball.
+
 ### Day 36: June 5, 2021
 
 **Today's Progress**: Played around with geolocation/running app today.
