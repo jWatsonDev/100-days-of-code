@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 39: June 8, 2021
+
+**Today's Progress**: Pretty much the same as yesterday. 
+
+**Thoughts:** Golf tourney today.
+
 ### Day 38: June 7, 2021
 
 **Today's Progress**: Continued with Google Maps API reasearch/playground time. 
