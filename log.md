@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 38: June 7, 2021
+
+**Today's Progress**: Continued with Google Maps API reasearch/playground time. 
+
+**Thoughts:** Check.
+
 ### Day 37: June 6, 2021
 
 **Today's Progress**: Not the most purposeful day. General Ionic/Google Maps API reasearch and playground time. 
