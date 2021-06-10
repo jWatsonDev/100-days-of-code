@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 40: June 9, 2021
+
+**Today's Progress**: Google maps api/geolocation play time. Built most of a sample golf course "distance" app. Prob 1 more session to make it fully usuable. 
+
+**Thoughts:** My baby girl's birthday. LOVE YOU Nina!!
+
 ### Day 39: June 8, 2021
 
 **Today's Progress**: Pretty much the same as yesterday. 
