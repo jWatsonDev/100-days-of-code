@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 41: June 10, 2021
+
+**Today's Progress**: Fin sample golf course "distance" app and tested it out on local golf course (in the rain!). Was right inline with my dad's range finder.
+
+**Thoughts:** Golf.
+
 ### Day 40: June 9, 2021
 
 **Today's Progress**: Google maps api/geolocation play time. Built most of a sample golf course "distance" app. Prob 1 more session to make it fully usuable. 
