@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 42: June 12, 2021
+
+**Today's Progress**: All Terrform today. Learning, playing around, and studying for exam.
+
+**Thoughts:** ...
+
 ### Day 42: June 11, 2021
 
 **Today's Progress**: Back to Terraform. Review and studying for exam.
