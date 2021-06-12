@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 42: June 12, 2021
+### Day 43: June 12, 2021
 
 **Today's Progress**: All Terrform today. Learning, playing around, and studying for exam.
 
