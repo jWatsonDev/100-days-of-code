@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 42: June 11, 2021
+
+**Today's Progress**: Back to Terraform. Review and studying for exam.
+
+**Thoughts:** Put in the time.
+
 ### Day 41: June 10, 2021
 
 **Today's Progress**: Fin sample golf course "distance" app and tested it out on local golf course (in the rain!). Was right inline with my dad's range finder.
