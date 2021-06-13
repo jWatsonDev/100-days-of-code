@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 44: June 13, 2021
+
+**Today's Progress**: Terraform play & learn - workflows, cli, local/remote state, etc.
+
+**Thoughts:** Happy Sunday
+
 ### Day 43: June 12, 2021
 
 **Today's Progress**: All Terrform today. Learning, playing around, and studying for exam.
