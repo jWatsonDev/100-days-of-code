@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 46: June 15, 2021
+
+**Today's Progress**: Terraform exam study.
+
+**Thoughts:** **crickets
+
 ### Day 45: June 14, 2021
 
 **Today's Progress**: All Terraform. 
