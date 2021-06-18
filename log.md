@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 49: June 18, 2021
+
+**Today's Progress**: Terraform and study. Scheduled TF exam today!
+
+**Thoughts:** N/A
+
 ### Day 48: June 17, 2021
 
 **Today's Progress**: Terraform and study.
