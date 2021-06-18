@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 48: June 17, 2021
+
+**Today's Progress**: Terraform and study.
+
+**Thoughts:** N/A
+
 ### Day 47: June 16, 2021
 
 **Today's Progress**: Ditto yesterday. Terraform exam study.
