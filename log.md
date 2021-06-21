@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 51: June 20, 2021
+
+**Today's Progress**: Terraform and study. 
+
+**Thoughts:** Father's Day!
+
 ### Day 50: June 19, 2021
 
 **Today's Progress**: Terraform and study. 
