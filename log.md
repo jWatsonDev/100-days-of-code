@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 52: June 21, 2021
+
+**Today's Progress**: Terraform and study. 
+
+**Thoughts:** Monday!
+
 ### Day 51: June 20, 2021
 
 **Today's Progress**: Terraform and study. 
