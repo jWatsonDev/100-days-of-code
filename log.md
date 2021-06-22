@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 53: June 22, 2021
+
+**Today's Progress**: Terraform and study...and some Docker. 
+
+**Thoughts:** Karate and Mexican
+
 ### Day 52: June 21, 2021
 
 **Today's Progress**: Terraform and study. 
