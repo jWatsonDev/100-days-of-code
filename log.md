@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 54: June 23, 2021
+
+**Today's Progress**: Study and play with Terraform and Docker. 
+
+**Thoughts:** Not the most productive, but punching the clock.
+
 ### Day 53: June 22, 2021
 
 **Today's Progress**: Terraform and study...and some Docker. 
