@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 56: June 25, 2021
+
+**Today's Progress**: Mainly reviewing Angular/NestJS course. Yeah, I know. 
+
+**Thoughts:** Date weekend with wifey.
+
 ### Day 55: June 24, 2021
 
 **Today's Progress**: Same as yesterday. Study and play with Terraform and Docker. 
