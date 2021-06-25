@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 55: June 24, 2021
+
+**Today's Progress**: Same as yesterday. Study and play with Terraform and Docker. 
+
+**Thoughts:** Perfection elusiveness. 
+
 ### Day 54: June 23, 2021
 
 **Today's Progress**: Study and play with Terraform and Docker. 
