@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 57: June 26, 2021
+
+**Today's Progress**: Again, mainly working Angular/NestJS with pipeline and Serverless.
+
+**Thoughts:** Chattanooga fun!
+
 ### Day 56: June 25, 2021
 
 **Today's Progress**: Mainly reviewing Angular/NestJS course. Yeah, I know. 
