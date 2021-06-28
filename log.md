@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 59: June 28, 2021
+
+**Today's Progress**: Angular, NestJS/AZ Functions, IaC, and pipeline. 
+
+**Thoughts:** Heck of a Monday.
+
 ### Day 58: June 27, 2021
 
 **Today's Progress**: Angular, NestJS/AZ Functions, IaC, and pipeline. 
