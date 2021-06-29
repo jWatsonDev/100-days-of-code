@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 60: June 29, 2021
+
+**Today's Progress**: The gambit: TerraForm, Angular, NestJS/AZ Functions, IaC, and pipeline. 
+
+**Thoughts:** Another busy workday. 
+
 ### Day 59: June 28, 2021
 
 **Today's Progress**: Angular, NestJS/AZ Functions, IaC, and pipeline. 
