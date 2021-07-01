@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 62: July 1, 2021
+
+**Today's Progress**: NestJS, etc.
+
+**Thoughts:** Not the most product but I punched the clock.
+
 ### Day 61: June 30, 2021
 
 **Today's Progress**: Semi-illegal day, because I counted some work-ish coding, but hey, it was serverless/angular, so cool fun stuff. 
