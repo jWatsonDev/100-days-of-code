@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 63: July 2, 2021
+
+**Today's Progress**: Just learning.
+
+**Thoughts:** +9 on golf today.
+
 ### Day 62: July 1, 2021
 
 **Today's Progress**: NestJS, etc.
