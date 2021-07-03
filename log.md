@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 64: July 3, 2021
+
+**Today's Progress**: Mostly social habit tracking app. 
+
+**Thoughts:** Family golf outing. 
+
 ### Day 63: July 2, 2021
 
 **Today's Progress**: Just learning.
