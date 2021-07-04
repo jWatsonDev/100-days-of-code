@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 65: July 4, 2021
+
+**Today's Progress**: Same as yesterday. Social habit tracking app. 
+
+**Thoughts:** Happy Freedom Day!!
+
 ### Day 64: July 3, 2021
 
 **Today's Progress**: Mostly social habit tracking app. 
