@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 66: July 5, 2021
+
+**Today's Progress**: Same as yesterday. Social habit tracking app. 
+
+**Thoughts:** Goal: Use my phone less!
+
 ### Day 65: July 4, 2021
 
 **Today's Progress**: Same as yesterday. Social habit tracking app. 
