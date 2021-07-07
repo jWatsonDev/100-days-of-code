@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 68: July 7, 2021
+
+**Today's Progress**: Social habit tracking app.
+
+**Thoughts:** So many projects. So little time. Get after it.
+
 ### Day 67: July 6, 2021
 
 **Today's Progress**: Social habit tracking app. Terraform.
