@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 69: July 8, 2021
+
+**Today's Progress**: Terraform.
+
+**Thoughts:** Played terrible at golf today.
+
 ### Day 68: July 7, 2021
 
 **Today's Progress**: Social habit tracking app.
