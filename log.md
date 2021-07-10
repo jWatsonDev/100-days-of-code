@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 70: July 9, 2021
+
+**Today's Progress**: Passed Terraform cert exam today. Yay!
+
+**Thoughts:** ^
+
 ### Day 69: July 8, 2021
 
 **Today's Progress**: Terraform.
