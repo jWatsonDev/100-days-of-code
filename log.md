@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 71: July 10, 2021
+
+**Today's Progress**: My projects--Nest, serverless, Angular...
+
+**Thoughts:** Nice to not think about exam. 
+
 ### Day 70: July 9, 2021
 
 **Today's Progress**: Passed Terraform cert exam today. Yay!
