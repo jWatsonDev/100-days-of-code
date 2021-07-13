@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 74: July 13, 2021
+
+**Today's Progress**: Serverless.
+
+**Thoughts:** Missed a day somewhere...logging-wise, not coding.
+
+### Day 72: July 12, 2021
+
+**Today's Progress**: Cyber security stuff.
+
+**Thoughts:** 
+
+### Day 72: July 11, 2021
+
+**Today's Progress**: My projects--Nest, serverless, Angular...
+
+**Thoughts:** 
+
 ### Day 71: July 10, 2021
 
 **Today's Progress**: My projects--Nest, serverless, Angular...
