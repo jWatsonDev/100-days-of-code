@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 75: July 14, 2021
+
+**Today's Progress**: Serverless. Code Build.
+
+**Thoughts:** Work's been insane. But hey, I'm valuable. 
+
 ### Day 74: July 13, 2021
 
 **Today's Progress**: Serverless.
