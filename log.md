@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 76: July 15, 2021
+
+**Today's Progress**: Serverless. Table Storage DB.
+
+**Thoughts:** Work continues to be cray cray. 
+
 ### Day 75: July 14, 2021
 
 **Today's Progress**: Serverless. Code Build.
