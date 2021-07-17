@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 77: July 16, 2021
+
+**Today's Progress**: Azure Table Storage/Nest JS.
+
+**Thoughts:** Learning.  
+
 ### Day 76: July 15, 2021
 
 **Today's Progress**: Serverless. Table Storage DB.
