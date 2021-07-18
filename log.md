@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 79: July 18, 2021
+
+**Today's Progress**: SI App. Azure Table Storage/Nest JS.
+
+**Thoughts:** Sunday
+
 ### Day 78: July 17, 2021
 
 **Today's Progress**: More Azure Table Storage/Nest JS.
