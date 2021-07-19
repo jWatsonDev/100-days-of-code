@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 80: July 19, 2021
+
+**Today's Progress**: Serverless.
+
+**Thoughts:** Cheating.
+
 ### Day 79: July 18, 2021
 
 **Today's Progress**: SI App. Azure Table Storage/Nest JS.
