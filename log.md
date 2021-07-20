@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 81: July 20, 2021
+
+**Today's Progress**: Some docker, artifactory, etc.
+
+**Thoughts:** Super tired here lately.
+
 ### Day 80: July 19, 2021
 
 **Today's Progress**: Serverless.
