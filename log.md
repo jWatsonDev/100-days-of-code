@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 82: July 21, 2021
+
+**Today's Progress**: Some docker, some work. 
+
+**Thoughts:** ...
+
 ### Day 81: July 20, 2021
 
 **Today's Progress**: Some docker, artifactory, etc.
