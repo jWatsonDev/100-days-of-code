@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 83: July 22, 2021
+
+**Today's Progress**: AZ stuff.
+
+**Thoughts:** ...
+
 ### Day 82: July 21, 2021
 
 **Today's Progress**: Some docker, some work. 
