@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 84: July 23, 2021
+
+**Today's Progress**: Just the time.
+
+**Thoughts:** Cassie's Bday
+
 ### Day 83: July 22, 2021
 
 **Today's Progress**: AZ stuff.
