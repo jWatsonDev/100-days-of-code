@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 86: July 25, 2021
+
+**Today's Progress**: Jenkins, etc.
+
+**Thoughts:** Sunday.
+
 ### Day 85: July 24, 2021
 
 **Today's Progress**: Jenkins, etc.
