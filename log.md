@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 87: July 26, 2021
+
+**Today's Progress**: My project.
+
+**Thoughts:** Monday.
+
 ### Day 86: July 25, 2021
 
 **Today's Progress**: Jenkins, etc.
