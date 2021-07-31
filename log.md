@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 92: July 31, 2021
+
+**Today's Progress**: Serverless.
+
+**Thoughts:** ...
+
 ### Day 91: July 30, 2021
 
 **Today's Progress**: Serverless.
