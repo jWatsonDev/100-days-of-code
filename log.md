@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 93: Aug. 1, 2021
+
+**Today's Progress**: My App.
+
+**Thoughts:** Almost there. 
+
 ### Day 92: July 31, 2021
 
 **Today's Progress**: Serverless.
