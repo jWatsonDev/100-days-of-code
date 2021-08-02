@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 94: Aug. 2, 2021
+
+**Today's Progress**: My App and Serverless.
+
+**Thoughts:** My golf game is not the greatest. 
+
 ### Day 93: Aug. 1, 2021
 
 **Today's Progress**: My App.
