@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 95: Aug. 3, 2021
+
+**Today's Progress**: Serverless.
+
+**Thoughts:** dev meetup tonight. probs will go. 
+
 ### Day 94: Aug. 2, 2021
 
 **Today's Progress**: My App and Serverless.
