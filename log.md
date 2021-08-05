@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 95: Aug. 3, 2021
+### Day 97: Aug. 5, 2021
+
+**Today's Progress**: Serverless.
+
+**Thoughts:** ... 
+
+### Day 96: Aug. 4, 2021
 
 **Today's Progress**: Serverless.
 
