@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 100: Aug. 8, 2021
+
+**Today's Progress**: Serverless.
+
+**Thoughts:** Fin. 
+
 ### Day 99: Aug. 7, 2021
 
 **Today's Progress**: Serverless.
