@@ -19,6 +19,6 @@ Nov 7, 2021
 
 ### Day 0: Nov. 7, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Installed Jenkins in AWS. Took longer than it should've. Will automate in the future. 
 
-**Thoughts:** 
+**Thoughts:** Although I have a coupld certs, DevOps is somewhat of a weakness imo. Turn weakness into strength with practice and preparation. 2 Tim. 2:7
