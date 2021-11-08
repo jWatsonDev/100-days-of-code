@@ -17,8 +17,14 @@ Nov 7, 2021
 2. Improve in the following technologies: Jenkins, Ansible, Docker, Kubernetes, Terraform, AWS, Azure, etc.
 3. Goals may evolve depending upon what I need to learn more about for work
 
+### Day 1: Nov. 8, 2021
+
+**Today's Progress**: Working through Udemy tut. Pulled and built maven project. Tomcat setup in progress.
+
+**Thoughts:** Got up at 4:45, which was slightly later than planned but earlier than typical. 
+
 ### Day 0: Nov. 7, 2021
 
 **Today's Progress**: Installed Jenkins in AWS. Took longer than it should've. Will automate in the future. 
 
-**Thoughts:** Although I have a coupld certs, DevOps is somewhat of a weakness imo. Turn weakness into strength with practice and preparation. 2 Tim. 2:7
+**Thoughts:** Although I have a couple certs, DevOps is somewhat of a weakness imo. Turn weakness into strength with practice and preparation. 2 Tim. 2:7
