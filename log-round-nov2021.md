@@ -17,6 +17,12 @@ Nov 7, 2021
 2. Improve in the following technologies: Jenkins, Ansible, Docker, Kubernetes, Terraform, AWS, Azure, etc.
 3. Goals may evolve depending upon what I need to learn more about for work
 
+### Day 2: Nov. 9, 2021
+
+**Today's Progress**: Continueing with Udemy tut. Deploying to Tomcat from Jenkins. On to Docker. 
+
+**Thoughts:** Not a lot of sleep last night. Meh :) 
+
 ### Day 1: Nov. 8, 2021
 
 **Today's Progress**: Working through Udemy tut. Pulled and built maven project. Tomcat setup in progress.
