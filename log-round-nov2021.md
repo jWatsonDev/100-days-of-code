@@ -17,6 +17,12 @@ Nov 7, 2021
 2. Improve in the following technologies: Jenkins, Ansible, Docker, Kubernetes, Terraform, AWS, Azure, etc.
 3. Goals may evolve depending upon what I need to learn more about for work
 
+### Day 4: Nov. 11, 2021
+
+**Today's Progress**: Completed docker pipeline. Now, kicking off with Ansible.  
+
+**Thoughts:** Enjoying this actually. Also, celebrating anniversary today. 
+
 ### Day 3: Nov. 10, 2021
 
 **Today's Progress**: Continueing with Udemy tut. Deploy to docker in progress. 
