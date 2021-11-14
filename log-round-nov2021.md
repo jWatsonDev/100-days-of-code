@@ -18,6 +18,12 @@ Nov 7, 2021
 3. Goals may evolve depending upon what I need to learn more about for work
 
 
+### Day 7: Nov. 14, 2021
+
+**Today's Progress**: Completed Docker/Ansible CI/CD. Getting started with Kubernetes.
+
+**Thoughts:** Yesterday wasn't a lazy day and busy days are probably the best for me. 
+
 ### Day 6: Nov. 13, 2021
 
 **Today's Progress**: Continueing with Docker and Ansible.  
