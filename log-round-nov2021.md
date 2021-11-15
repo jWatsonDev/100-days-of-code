@@ -18,6 +18,12 @@ Nov 7, 2021
 3. Goals may evolve depending upon what I need to learn more about for work
 
 
+### Day 8: Nov. 15, 2021
+
+**Today's Progress**: Toggled to Docker, but new Apple chip causing some things not to work. 
+
+**Thoughts:** Monday! Get after it. Up at 4:30. 
+
 ### Day 7: Nov. 14, 2021
 
 **Today's Progress**: Completed Docker/Ansible CI/CD. Getting started with Kubernetes.
