@@ -18,6 +18,12 @@ Nov 7, 2021
 3. Goals may evolve depending upon what I need to learn more about for work
 
 
+### Day 9: Nov. 16 2021
+
+**Today's Progress**: Docker and Kubernetes.
+
+**Thoughts:** Continueing to rise at 4:30.
+
 ### Day 8: Nov. 15, 2021
 
 **Today's Progress**: Toggled to Docker, but new Apple chip causing some things not to work. 
