@@ -18,6 +18,12 @@ Nov 7, 2021
 3. Goals may evolve depending upon what I need to learn more about for work
 
 
+### Day 10: Nov. 17 2021
+
+**Today's Progress**: Spring Boot and Docker. 
+
+**Thoughts:** 4:30 is good. Hump day!!
+
 ### Day 9: Nov. 16 2021
 
 **Today's Progress**: Docker and Kubernetes.
