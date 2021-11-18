@@ -18,6 +18,12 @@ Nov 7, 2021
 3. Goals may evolve depending upon what I need to learn more about for work
 
 
+### Day 11: Nov. 18 2021
+
+**Today's Progress**: Back to Kubernetes. From yesterday--Docker building/serving Spring Boot (hardened images).
+
+**Thoughts:** 4:30. Maybe Mexican tonight or maybe Friday. 
+
 ### Day 10: Nov. 17 2021
 
 **Today's Progress**: Spring Boot and Docker. 
