@@ -18,6 +18,12 @@ Nov 7, 2021
 3. Goals may evolve depending upon what I need to learn more about for work
 
 
+### Day 12: Nov. 19 2021
+
+**Today's Progress**: Kubernetes installation. Had to backtrack some due to a fat finger. 
+
+**Thoughts:** Continuing with 4:30. Happy Friday!
+
 ### Day 11: Nov. 18 2021
 
 **Today's Progress**: Back to Kubernetes. From yesterday--Docker building/serving Spring Boot (hardened images).
