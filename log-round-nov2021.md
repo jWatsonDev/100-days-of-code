@@ -18,6 +18,12 @@ Nov 7, 2021
 3. Goals may evolve depending upon what I need to learn more about for work
 
 
+### Day 13: Nov. 20 2021
+
+**Today's Progress**: Still on Kubernetes. Tbh, troubleshooting install has taken longer than it should. 
+
+**Thoughts:** Slept in until 5:30. 
+
 ### Day 12: Nov. 19 2021
 
 **Today's Progress**: Kubernetes installation. Had to backtrack some due to a fat finger. 
