@@ -18,6 +18,12 @@ Nov 7, 2021
 3. Goals may evolve depending upon what I need to learn more about for work
 
 
+### Day 15: Nov. 22 2021
+
+**Today's Progress**: STILL troubleshooting K8 install. Will toggle to different directions if still have an issue.
+
+**Thoughts:** 4:30. Smoked turkey was solid.
+
 ### Day 14: Nov. 21 2021
 
 **Today's Progress**: Troubleshooting K8 management server to master connection. 😬
