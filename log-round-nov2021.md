@@ -18,6 +18,12 @@ Nov 7, 2021
 3. Goals may evolve depending upon what I need to learn more about for work
 
 
+### Day 16: Nov. 23 2021
+
+**Today's Progress**: Yet again. Still troubleshooting K8 install. 
+
+**Thoughts:** 4:30 becoming more of a habit. Mexican last night. 
+
 ### Day 15: Nov. 22 2021
 
 **Today's Progress**: STILL troubleshooting K8 install. Will toggle to different directions if still have an issue.
