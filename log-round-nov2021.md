@@ -18,6 +18,12 @@ Nov 7, 2021
 3. Goals may evolve depending upon what I need to learn more about for work
 
 
+### Day 17: Nov. 24 2021
+
+**Today's Progress**: Still on K8. Made some progress, though.  
+
+**Thoughts:** 4:30 am again. Plan to play golf today. It's been a while. 
+
 ### Day 16: Nov. 23 2021
 
 **Today's Progress**: Yet again. Still troubleshooting K8 install. 
