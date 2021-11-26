@@ -17,6 +17,12 @@ Nov 7, 2021
 2. Improve in the following technologies: Jenkins, Ansible, Docker, Kubernetes, Terraform, AWS, Azure, etc.
 3. Goals may evolve depending upon what I need to learn more about for work
 
+### Day 19: Nov. 26 2021
+
+**Today's Progress**: Using K8 with Ansible and Jenkins. 
+
+**Thoughts:** Slept in a bit this morning 😬
+
 ### Day 18: Nov. 25 2021
 
 **Today's Progress**: Finally moving forward. Played with K8. Now integrating with Ansible. 
