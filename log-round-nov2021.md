@@ -17,6 +17,12 @@ Nov 7, 2021
 2. Improve in the following technologies: Jenkins, Ansible, Docker, Kubernetes, Terraform, AWS, Azure, etc.
 3. Goals may evolve depending upon what I need to learn more about for work
 
+### Day 20: Nov. 27 2021
+
+**Today's Progress**: Containers--nginx with static content. Also, digging in on ECS and EKS. 
+
+**Thoughts:** Slept in a bit this morning, as well. Let's get back after it. 😬
+
 ### Day 19: Nov. 26 2021
 
 **Today's Progress**: Using K8 with Ansible and Jenkins. 
