@@ -17,6 +17,12 @@ Nov 7, 2021
 2. Improve in the following technologies: Jenkins, Ansible, Docker, Kubernetes, Terraform, AWS, Azure, etc.
 3. Goals may evolve depending upon what I need to learn more about for work
 
+### Day 23: Nov. 30 2021
+
+**Today's Progress**: Started in28minutes DevOps course. All things Docker today.  
+
+**Thoughts:** Tuesday! Water park vacation starts tomorrow!!
+
 ### Day 22: Nov. 29 2021
 
 **Today's Progress**: Completed Valaxy.net's DevOps course on Udemy: "DevOps Project: CI/CD with Jenkins Ansible Docker Kubernetes" 
