@@ -17,6 +17,12 @@ Nov 7, 2021
 2. Improve in the following technologies: Jenkins, Ansible, Docker, Kubernetes, Terraform, AWS, Azure, etc.
 3. Goals may evolve depending upon what I need to learn more about for work
 
+### Day 27: Dec. 4 2021
+
+**Today's Progress**: Starting with Kubernetes and Google Kubernetes Engine.  
+
+**Thoughts:** Train your brain :) 
+
 ### Day 26: Dec. 3 2021
 
 **Today's Progress**: Completed in28minutes DevOps docker section. 
