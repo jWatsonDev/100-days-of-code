@@ -17,6 +17,12 @@ Nov 7, 2021
 2. Improve in the following technologies: Jenkins, Ansible, Docker, Kubernetes, Terraform, AWS, Azure, etc.
 3. Goals may evolve depending upon what I need to learn more about for work
 
+### Day 33: Dec. 10 2021
+
+**Today's Progress**: Playtime with K8 and Docker. 
+
+**Thoughts:** Level up. Little by little. 
+
 ### Day 32: Dec. 9 2021
 
 **Today's Progress**: Continued learning--Kubernetes and GKE
