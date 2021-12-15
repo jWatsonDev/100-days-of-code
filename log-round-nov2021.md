@@ -17,6 +17,12 @@ Nov 7, 2021
 2. Improve in the following technologies: Jenkins, Ansible, Docker, Kubernetes, Terraform, AWS, Azure, etc.
 3. Goals may evolve depending upon what I need to learn more about for work
 
+### Day 38: Dec. 15 2021
+
+**Today's Progress**: More Terraform practice.
+
+**Thoughts:** Skipped Karate for Mexican 👀 
+
 ### Day 37: Dec. 14 2021
 
 **Today's Progress**: More Terraform practice.
