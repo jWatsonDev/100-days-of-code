@@ -17,6 +17,12 @@ Nov 7, 2021
 2. Improve in the following technologies: Jenkins, Ansible, Docker, Kubernetes, Terraform, AWS, Azure, etc.
 3. Goals may evolve depending upon what I need to learn more about for work
 
+### Day 44: Dec. 21 2021
+
+**Today's Progress**: Fine-tuned Terraform Jenkins on EC2 and pushed to Github. 
+
+**Thoughts:** Stay focused and get after it. Did I say "Merry Christmas!"? 🎄
+
 ### Day 43: Dec. 20 2021
 
 **Today's Progress**: Stood up Jenkins with TF. 
