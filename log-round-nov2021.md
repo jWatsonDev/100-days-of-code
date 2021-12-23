@@ -17,6 +17,12 @@ Nov 7, 2021
 2. Improve in the following technologies: Jenkins, Ansible, Docker, Kubernetes, Terraform, AWS, Azure, etc.
 3. Goals may evolve depending upon what I need to learn more about for work
 
+### Day 46: Dec. 23 2021
+
+**Today's Progress**: Spent most of my time digging in on automating software installs. Looking to automate AZ DevOps on an EC2.
+
+**Thoughts:** Forget the stress. Trust the process. Get after it. Learn from mistakes. 
+
 ### Day 45: Dec. 22 2021
 
 **Today's Progress**: A break from the usual. Digging in on log4j.
