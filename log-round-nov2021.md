@@ -17,6 +17,18 @@ Nov 7, 2021
 2. Improve in the following technologies: Jenkins, Ansible, Docker, Kubernetes, Terraform, AWS, Azure, etc.
 3. Goals may evolve depending upon what I need to learn more about for work
 
+### Day 49: Dec. 26 2021
+
+**Today's Progress**: Back to playing with Jenkins. Not the most productive hour. 
+
+**Thoughts:** Sunday 🙏
+
+### Day 48: Dec. 25 2021
+
+**Today's Progress**: Terraform workspaces and modules. Fin with TF for now. 
+
+**Thoughts:** Merry Christmas 🎄✝️
+
 ### Day 47: Dec. 24 2021
 
 **Today's Progress**: Terraform Remote Backend. 
