@@ -17,7 +17,13 @@ Nov 7, 2021
 2. Improve in the following technologies: Jenkins, Ansible, Docker, Kubernetes, Terraform, AWS, Azure, etc.
 3. Goals may evolve depending upon what I need to learn more about for work
 
-### Day 54: Dec. 31 2021
+### Day 55: Jan. 1 2022
+
+**Today's Progress**: Break from the norm. fcc JavaScript Algorithms and Data Structures.
+
+**Thoughts:** Happy New Year 🥳
+
+### Day 54: Dec. 31 2021 
 
 **Today's Progress**: Log4j research and Ansible. 
 
