@@ -17,6 +17,12 @@ Nov 7, 2021
 2. Improve in the following technologies: Jenkins, Ansible, Docker, Kubernetes, Terraform, AWS, Azure, etc.
 3. Goals may evolve depending upon what I need to learn more about for work
 
+### Day 56: Jan. 2 2022
+
+**Today's Progress**: Completed fcc JavaScript Algorithms and Data Structures. https://freecodecamp.org/certification/jwatsondev/javascript-algorithms-and-data-structures
+
+**Thoughts:** Get after it. 
+
 ### Day 55: Jan. 1 2022
 
 **Today's Progress**: Break from the norm. fcc JavaScript Algorithms and Data Structures.
