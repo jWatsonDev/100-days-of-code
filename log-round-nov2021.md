@@ -17,6 +17,12 @@ Nov 7, 2021
 2. Improve in the following technologies: Jenkins, Ansible, Docker, Kubernetes, Terraform, AWS, Azure, etc.
 3. Goals may evolve depending upon what I need to learn more about for work
 
+### Day 58: Jan. 4 2022
+
+**Today's Progress**: Completed Ansible section. Now, playing with freeCodeCamp.
+
+**Thoughts:** Learned a lot yesterday. Now, must document. 
+
 ### Day 57: Jan. 3 2022
 
 **Today's Progress**: Back to playtime with Ansible.
