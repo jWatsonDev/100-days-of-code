@@ -17,6 +17,12 @@ Nov 7, 2021
 2. Improve in the following technologies: Jenkins, Ansible, Docker, Kubernetes, Terraform, AWS, Azure, etc.
 3. Goals may evolve depending upon what I need to learn more about for work
 
+### Day 59: Jan. 5 2022
+
+**Today's Progress**: Started new Udemy DevOps projects course by Imran Teli. Seems really great. 20 projects.
+
+**Thoughts:** 🎄 Spirit
+
 ### Day 58: Jan. 4 2022
 
 **Today's Progress**: Completed Ansible section. Now, playing with freeCodeCamp.
