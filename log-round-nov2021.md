@@ -17,6 +17,12 @@ Nov 7, 2021
 2. Improve in the following technologies: Jenkins, Ansible, Docker, Kubernetes, Terraform, AWS, Azure, etc.
 3. Goals may evolve depending upon what I need to learn more about for work
 
+### Day 62: Jan. 8 2022
+
+**Today's Progress**: So, Virtual Box and M1 are incompatible. Will move forward with learning with EC2s. 
+
+**Thoughts:** 🤔 
+
 ### Day 61: Jan. 7 2022
 
 **Today's Progress**: Vagrant/Mac M1/Fusion troubleshooting. 
