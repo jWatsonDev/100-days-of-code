@@ -17,6 +17,12 @@ Nov 7, 2021
 2. Improve in the following technologies: Jenkins, Ansible, Docker, Kubernetes, Terraform, AWS, Azure, etc.
 3. Goals may evolve depending upon what I need to learn more about for work
 
+### Day 64: Jan. 10 2022
+
+**Today's Progress**: fcc API curriculum. Good stuff. 
+
+**Thoughts:** Day at the office. 
+
 ### Day 63: Jan. 9 2022
 
 **Today's Progress**: fcc API playtime. 
