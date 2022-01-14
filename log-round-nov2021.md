@@ -17,6 +17,12 @@ Nov 7, 2021
 2. Improve in the following technologies: Jenkins, Ansible, Docker, Kubernetes, Terraform, AWS, Azure, etc.
 3. Goals may evolve depending upon what I need to learn more about for work
 
+### Day 68: Jan. 14 2022
+
+**Today's Progress**: Devops continued. 
+
+**Thoughts:** Friday.  
+
 ### Day 67: Jan. 13 2022
 
 **Today's Progress**: Devops continued. 
