@@ -17,13 +17,19 @@ Nov 7, 2021
 2. Improve in the following technologies: Jenkins, Ansible, Docker, Kubernetes, Terraform, AWS, Azure, etc.
 3. Goals may evolve depending upon what I need to learn more about for work
 
+### Day 70: Jan. 16 2022
+
+**Today's Progress**: Moving forward with Re-Architect. 
+
+**Thoughts:** Sunday 🙏
+
 ### Day 69: Jan. 15 2022
 
 **Today's Progress**: Completed Lift & Shift to AWS. Now to Re-Architect. 
 
 **Thoughts:** 🙏 for family.  Senseless loss yesterday. 
 
-### Day 68: Jan. 14 2022
+### Day 68: Jan. 14 2022 
 
 **Today's Progress**: Devops continued. 
 
