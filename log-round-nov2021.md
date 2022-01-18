@@ -17,6 +17,12 @@ Nov 7, 2021
 2. Improve in the following technologies: Jenkins, Ansible, Docker, Kubernetes, Terraform, AWS, Azure, etc.
 3. Goals may evolve depending upon what I need to learn more about for work
 
+### Day 72: Jan. 18 2022
+
+**Today's Progress**: Re-Architect completed. Playing with CI tools. 
+
+**Thoughts:** Tuesday, the Monday of this week. Get after it and enjoy it. Gratitude attitude. 
+
 ### Day 71: Jan. 17 2022
 
 **Today's Progress**: Re-Architect continued.
