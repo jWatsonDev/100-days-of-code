@@ -17,6 +17,12 @@ Nov 7, 2021
 2. Improve in the following technologies: Jenkins, Ansible, Docker, Kubernetes, Terraform, AWS, Azure, etc.
 3. Goals may evolve depending upon what I need to learn more about for work
 
+### Day 75: Jan. 21 2022
+
+**Today's Progress**: Attempting an Ansible deployment to AML2/Tomcat/Corretto. 
+
+**Thoughts:** Teresa's funeral today. 
+
 ### Day 74: Jan. 20 2022
 
 **Today's Progress**: Continuing to play with CI tools. 
