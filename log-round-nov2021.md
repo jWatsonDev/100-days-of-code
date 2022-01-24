@@ -17,6 +17,12 @@ Nov 7, 2021
 2. Improve in the following technologies: Jenkins, Ansible, Docker, Kubernetes, Terraform, AWS, Azure, etc.
 3. Goals may evolve depending upon what I need to learn more about for work
 
+### Day 78: Jan. 24 2022
+
+**Today's Progress**: Back to Udemy DevOps Project.
+
+**Thoughts:** Didn't sleep the best last night. Good. 
+
 ### Day 77: Jan. 23 2022
 
 **Today's Progress**: Learned lots about AWS EB the last couple of days. Finally some success. 
