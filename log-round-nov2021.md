@@ -17,6 +17,12 @@ Nov 7, 2021
 2. Improve in the following technologies: Jenkins, Ansible, Docker, Kubernetes, Terraform, AWS, Azure, etc.
 3. Goals may evolve depending upon what I need to learn more about for work
 
+### Day 81: Jan. 27 2022
+
+**Today's Progress**: Fin CICD project. Working through native AWS project. 
+
+**Thoughts:** Don't let up. 
+
 ### Day 80: Jan. 26 2022
 
 **Today's Progress**: Almost fin with CICD project. 
