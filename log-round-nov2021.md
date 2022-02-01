@@ -17,6 +17,12 @@ Nov 7, 2021
 2. Improve in the following technologies: Jenkins, Ansible, Docker, Kubernetes, Terraform, AWS, Azure, etc.
 3. Goals may evolve depending upon what I need to learn more about for work
 
+### Day 86: Feb. 1 2022
+
+**Today's Progress**: Ansible practice continued.
+
+**Thoughts:** Karate tonight. 
+
 ### Day 85: Jan. 31 2022
 
 **Today's Progress**: Ansible practice continued and some misc.
