@@ -17,6 +17,12 @@ Nov 7, 2021
 2. Improve in the following technologies: Jenkins, Ansible, Docker, Kubernetes, Terraform, AWS, Azure, etc.
 3. Goals may evolve depending upon what I need to learn more about for work
 
+### Day 88: Feb. 3 2022
+
+**Today's Progress**: Completed Ansible/AWS env stamp-out project.
+
+**Thoughts:** Date weekend. Should I go to 4 10s? 
+
 ### Day 87: Feb. 2 2022
 
 **Today's Progress**: Ansible and AWS networking.
