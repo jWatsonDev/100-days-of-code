@@ -17,6 +17,12 @@ Nov 7, 2021
 2. Improve in the following technologies: Jenkins, Ansible, Docker, Kubernetes, Terraform, AWS, Azure, etc.
 3. Goals may evolve depending upon what I need to learn more about for work
 
+### Day 96: Feb. 11 2022
+
+**Today's Progress**: Studying for AWS Certified DevOps Engineer - Professional.
+
+**Thoughts:** Yes, I went to Karate again.
+
 ### Day 95: Feb. 10 2022
 
 **Today's Progress**: Studying for AWS Certified DevOps Engineer - Professional.
