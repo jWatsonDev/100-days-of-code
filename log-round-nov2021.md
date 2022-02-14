@@ -17,6 +17,12 @@ Nov 7, 2021
 2. Improve in the following technologies: Jenkins, Ansible, Docker, Kubernetes, Terraform, AWS, Azure, etc.
 3. Goals may evolve depending upon what I need to learn more about for work
 
+### Day 99: Feb. 14 2022
+
+**Today's Progress**: (WhizLabs) Studying for AWS Certified DevOps Engineer - Professional.
+
+**Thoughts:** 100 days in a row, Jack. Happy Valentines Day!
+
 ### Day 98: Feb. 13 2022
 
 **Today's Progress**: (WhizLabs) Studying for AWS Certified DevOps Engineer - Professional.
